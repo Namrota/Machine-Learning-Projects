@@ -4,7 +4,7 @@ This is page is intended to highlight the projects on which I have worked as a p
 
 ## Contents
 
-1. Predicting house prices
+1. Car Price Prediction
 3. Telecom Churn Case Study
 4. Lead Scoring Case Study
 5. Credit Card Fraud Detection
