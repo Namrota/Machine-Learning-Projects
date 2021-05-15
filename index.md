@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/Namrota/Overview-of-the-projects-done/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is an introduction to the projects that I have worked on. As I keep on continuing my learning more details of the projects will be added.
 
 ### Markdown
 
