@@ -1,35 +1,12 @@
 ## About
 
-This is an introduction to the projects that I have worked on. As I keep on continuing my learning more details of the projects will be added.
+This is an introduction to the projects on which I have worked as a part of my learning journey. As I keep on continuing my learning more details of the projects will be added.
 
-### Markdown
+### Contents:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Predicting house prices
+2. Telecom Churn Case Study
+3. Lead Scoring Case Study
+4. Credit Card Fraud Detection
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Namrota/Overview-of-the-projects-done/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
