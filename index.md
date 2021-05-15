@@ -1,6 +1,6 @@
 ## About
 
-This is page is intended to highlight the projects on which I have worked as a part of my learning journey. As I keep on continuing my learning more details of the projects will be added. To get more insight of the projects click ###View on GitHub.
+This is page is intended to highlight the projects on which I have worked as a part of my learning journey. As I keep on continuing my learning more details of the projects will be added. To get more insight of the projects click `View on GitHub`.
 
 ## Contents
 
