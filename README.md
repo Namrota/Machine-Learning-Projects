@@ -21,6 +21,10 @@ To build a model of the price of cars with the available independent variables t
 
 For this particular project linear regression model was used to predict the car prices. The metric used in this particular project is `r2_score`.
 
+#### Github Link:
+
+https://github.com/Namrota/Linear-Regression
+
 ### Project 2: Telecom Churn Case Study
 
 #### Case Study:
@@ -35,7 +39,11 @@ To analyse customer-level data of a leading telecom firm, build predictive model
 
 #### ML Modelling:
 
-For this particular project two models were used- Logistic Regression and Reandom Forest Classifier. The metric used for this particular project is: `confusion matrix`  
+For this particular project two models were used- Logistic Regression and Reandom Forest Classifier. The metric used for this particular project is: `confusion matrix`
+
+#### Github Link:
+
+https://github.com/Namrota/Telecom-Churn-Case-Study
 
 ### Lead Scoring Case Study
 
@@ -52,6 +60,10 @@ Build a model to assign a lead score between 0 and 100 to each of the leads whic
 #### ML Modelling:
 
 For this particular project Logistic regression was used. The metrics used for this particular project are: `confusion matrix` and `ROC Curve`.
+
+#### Github Link:
+
+https://github.com/Namrota/Lead-Scoring-Case-Study
 
 ### Credit Card Fraud Detection
 
@@ -75,6 +87,10 @@ To predict fraudulent credit card transactions with the help of machine learning
 #### ML Modelling:
 
 For this particular projects the models used are: Logistic Regression, xg Boost, Ramdom Forest Classifier. Also as this dataset was highly imbalanced, the techniques used to get a more balanced dataset are: `Random Oversampling`, `SMOTE`, `ADASYN`. The metrics used for this particular project are: `roc_auc_score`, `roc_curve`, and `F1 Score`.
+
+#### Github Link:
+
+https://github.com/Namrota/Credit-Card-Fraud-Detection
 
 ### Image Classification For Visually Disabled People
 
