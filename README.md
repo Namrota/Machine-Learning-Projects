@@ -86,7 +86,10 @@ For this particular projects the models used are: Logistic Regression, xg Boost,
   
 #### Step-by-step description:
 
-a. Understanding the dataset
+a. Understanding the dataset 
+
 b. Cleaning and preparing the dataset
+
 c. Visualizing the dataset
+
 d. Predicting the dataset
